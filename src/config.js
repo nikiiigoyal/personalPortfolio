@@ -7,12 +7,12 @@ module.exports = {
       url: 'https://github.com/nikiiigoyal',
     },
     {
-      name: 'Hackerrank',
+      name: 'HackerRank',
       url: 'https://www.hackerrank.com/profile/nikiiigoyal',
     },
     // {
-    //   name: 'Telegram',
-    //   url: 'https://twitter.com/bchiang7',
+    //   name: 'Discord',
+    //   url: 'https://discord.com/channels/@me',
     // },
     {
       name: 'Linkedin',

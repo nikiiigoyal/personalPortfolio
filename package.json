@@ -78,5 +78,6 @@
   },
   "resolutions": {
     "graphql": "^15.8.0"
-  }
+  },
+  "packageManager": "yarn@4.7.0"
 }
