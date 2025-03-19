@@ -7,7 +7,7 @@ tech:
   - Html
   - Css
   - JAvscript
-company: 'Upstatement'
+# company: 'Upstatement'
 showInProjects: true
 ---
 

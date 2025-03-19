@@ -1,6 +1,6 @@
 ---
 date: '2023'
-title: 'Binary Deciaml Converter'
+title: 'Binary Decimal Converter'
 github: 'https://github.com/nikiiigoyal/html-apps/tree/master/binaryToDecimal'
 external: 'https://sampleprojects.vercel.app/binaryToDecimal/index.html'
 tech:
