@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Front-end Developer specializing in building and designing exceptional digital
+        I’m a Front-end-Developer specializing in building and designing exceptional digital
         experiences.
         {/* <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
           Upstatement
