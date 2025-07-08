@@ -1,9 +1,9 @@
 ---
 date: '2025-07-07'
 title: 'GlassMorphism Dashboard'
-github: 'https://github.com/nikiiigoyal/organic-ecommerce-shop'
+github: 'https://github.com/nikiiigoyal/liquid-glass-dashboard'
 cover: './demo.png'
-external: 'https://organic-ecommerce-shop-ivory.vercel.app/'
+external: 'https://liquid-glass-dashboard-git-main-nikita-goyals-projects.vercel.app/'
 tech:
   - Next.Js
   - React
