@@ -1,6 +1,6 @@
 ---
 title: 'Rive Animations '
-cover: './demo.png'
+cover: 'demo.png'
 external: 'https://rive.app/@Nikiii/'
 tech:
   - Animations
