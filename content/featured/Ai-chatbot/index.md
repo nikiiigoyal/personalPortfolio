@@ -15,4 +15,4 @@ tech:
   - Git
 ---
 
-A robust and modular AI chat SDK that seamlessly integrates with DeepSeek's conversational AI API. Built with secure authentication, real-time messaging capabilities, and comprehensive error handling for production-ready applications. Features include customizable chat parameters, message history management, rate limiting, and developer-friendly documentation with TypeScript support.
+A robust and modular AI chat SDK that seamlessly integrates with DeepSeek's conversational AI API. Built with secure authentication, real-time messaging capabilities, and comprehensive error handling for production-ready applications. Features include customizable chat parameters, message history management and developer-friendly documentation with TypeScript support.
