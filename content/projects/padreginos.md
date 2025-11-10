@@ -1,7 +1,7 @@
 ---
-date: '3'
+date: '2024'
 title: 'Padre-ginos'
-cover: './demo.png'
+cover: 'padreginos.png'
 external: 'https://benevolent-gnome-a309a7.netlify.app/'
 github: 'https://github.com/nikiiigoyal/padre-ginos'
 cta: 'https://github.com/nikiiigoyal/padre-ginos-api/tree/master'

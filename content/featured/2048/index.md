@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '2024'
 title: '2048 Game'
 cover: './demo.png'
 github: 'https://github.com/nikiiigoyal/html-apps/tree/master/2048Game'
