@@ -1,5 +1,5 @@
 ---
-date: 'November 2025'
+date: 'october 2025'
 title: '3D Shoes Customizer — React Three fiber'
 github: 'https://github.com/nikiiigoyal/3d-shoes'
 cover: 'demo.png' 

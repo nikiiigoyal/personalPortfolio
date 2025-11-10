@@ -7,6 +7,23 @@
 const path = require('path');
 const _ = require('lodash');
 
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  
+  createTypes(`
+    type MarkdownRemarkFrontmatter {
+      tech: [String]
+      cover: File @fileByRelativePath
+      external: String
+      github: String
+      ios: String
+      android: String
+      company: String
+      showInProjects: Boolean
+    }
+  `);
+};
+
 exports.createPages = async ({ actions, graphql, reporter }) => {
   const { createPage } = actions;
   const postTemplate = path.resolve(`src/templates/post.js`);

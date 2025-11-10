@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: ''
 title: 'AI Chat SDK with DeepSeek Integration'
 cover: 'demo.png'
 github: 'https://github.com/nikiiigoyal/my-ai-chatbot'
